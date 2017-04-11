@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698232003657",
+    "firebase_url": "https://allvasodos.firebaseio.com",
+    "project_id": "allvasodos",
+    "storage_bucket": "allvasodos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698232003657:android:9bbc1a2bfde94f5f",
+        "android_client_info": {
+          "package_name": "mx.com.allvaso.allvasodos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698232003657-qdcl9s4ij7s9fmpri1bfbverg3v0v56r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.allvaso.allvasodos",
+            "certificate_hash": "24399ba699cdff45a5dc44a62591883dd2c3579c"
+          }
+        },
+        {
+          "client_id": "698232003657-jv5qbn21hg9apabkfgvibjgp25sfplo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmI8HJM5_p6Fq0YFUs0aKn1zOwZTrc5nM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698232003657-jv5qbn21hg9apabkfgvibjgp25sfplo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

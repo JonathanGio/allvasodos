@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AllChupe-Express</string>
+    <string name="action_settings">CERRAR SESIÓN</string>
+    <string name="ajustes">ajustes</string>
+    <string name="not_log_in">no se pudo loguer</string>
+    <string name="not_revoke">revokar</string>
+    <string name="not_close_session">no se pudo cerrar</string>
+    <string name="log_out">cerrar sesion</string>
+    <string name="revoke">revokar</string>
+    <string name="title_profile_list">Items</string>
+    <string name="title_profile_detail">profile Detail</string>
+    <string name="label_loading">Cargando...</string>
+    <string name="not_firebase_auth">No se Puedo Autenticar</string>
+</resources>
